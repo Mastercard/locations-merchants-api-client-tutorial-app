@@ -33,7 +33,7 @@ import java.security.PrivateKey;
 public class MerchantsApiTest {
 
 
-    private static final String BASE_URL = "https://sandbox.api.mastercard.com/locations/atms";
+    private static final String BASE_URL = "https://sandbox.api.mastercard.com/locations/merchants";
     private static final String CONSUMER_KEY = "yourconsumerkeystring";
     private static final String PKCS_12_KEY_FILE_PATH = "./path/to/your/signing-key.p12";
     private static final String SIGNIN_KEY_ALIAS = "yourkeyalias";
